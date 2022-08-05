@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm an electrical enginner with a passion for coding below you can find somone of the projects i have worked on
 
 <!--
 **elie0174/elie0174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
